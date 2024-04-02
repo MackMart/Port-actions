@@ -11,3 +11,13 @@
     tier: Mission Critical
     resource_definitions: https://example.com
   relations: {}
+- identifier: payment
+  title: Payment
+  blueprint: domain
+  properties:
+    architecture: https://lucid.app/documents/embedded/c3d64493-a5fe-4b18-98d5-66d355080de3
+- identifier: shipping
+  title: Shipping
+  blueprint: domain
+  properties:
+    architecture: https://lucid.app/documents/embedded/c3d64493-a5fe-4b18-98d5-66d355080de3
